@@ -1,6 +1,6 @@
-# 📊 LA Crime Data Analysis (2020–Present)
+# 📊 LA Crime Data Analysis (2020–2023)
 
-This project performs an **Exploratory Data Analysis (EDA)** on the Los Angeles Crime Dataset from **2020 to the present**.  
+This project performs an **Exploratory Data Analysis (EDA)** on the Los Angeles Crime Dataset from **2020 to 2023**.  
 It includes data cleaning, preprocessing, visualization, and extraction of meaningful crime insights such as crime frequency, affected areas, victim demographics, and weapon usage.
 
 ---
